@@ -1,0 +1,30 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fhome_002Fandrew_002FRiderProjects_002Fsav2_002Fadt_002Dsolver_002DDD_002FmyPackaged_002Ftry5_002Fz3_002Dz3_002D4_002E11_002E2_002Fbuild_002Fdotnet_002Fobj_002FRelease_002Fnetstandard1_002E4_002FMicrosoft_002EZ3_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fhome_002Fandrew_002FRiderProjects_002Fsav2_002Fadt_002Dsolver_002DDD_002FmyPackaged_002Ftry5_002Fz3_002Dz3_002D4_002E11_002E2_002Fbuild_002FMicrosoft_002EZ3_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fhome_002Fandrew_002FRiderProjects_002Fsav2_002Fadt_002Dsolver_002DDD_002FmyPackaged_002Ftry6_002Fz3_002Dz3_002D4_002E11_002E2_002Fbuild_002Fdotnet_002Fobj_002FRelease_002Fnetstandard1_002E4_002FMicrosoft_002EZ3_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=_002Fhome_002Fandrew_002FRiderProjects_002Fsav2_002Fadt_002Dsolver_002DDD_002FmyPackaged_002Ftry6_002Fz3_002Dz3_002D4_002E11_002E2_002Fbuild_002FMicrosoft_002EZ3_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
+  &lt;Assembly Path="/home/andrew/RiderProjects/adt-solver-DD/CataHornSolver/bin/Release/net6.0/Newtonsoft.Json.dll" /&gt;
+  &lt;Assembly Path="/home/andrew/.nuget/packages/microsoft.z3/4.11.2/lib/netstandard1.4/Microsoft.Z3.dll" /&gt;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=013e52f7_002D8f9e_002D42c4_002Dacd1_002D8dcee902a383/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestList" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::3F49BE3F-7734-4140-A8C8-5BE501CE7A1A::net6.0::Tests.ProofBased.Test+TestClass.TestLastAppList&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::3F49BE3F-7734-4140-A8C8-5BE501CE7A1A::net6.0::Tests.ProofBased.Test+TestClass.ListLenInv&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6678583d_002Dd25b_002D4efa_002D8463_002D301e30cffcef/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestDiseqInt" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::3F49BE3F-7734-4140-A8C8-5BE501CE7A1A::net6.0::Tests.ProofBased.Test+TestClass.TestDiseqInt&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6918bbe2_002Dfa66_002D489e_002Db819_002Dc8d9f8b48f3e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ListLenInv" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::3F49BE3F-7734-4140-A8C8-5BE501CE7A1A::net6.0::Tests.ProofBased.Test+TestClass&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f5927f4c_002Dbd7c_002D4768_002Dae73_002D5d24d5e954a7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestMethodPassing" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::3F49BE3F-7734-4140-A8C8-5BE501CE7A1A::net6.0::Tests.ProofBased.Test+TestClass&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

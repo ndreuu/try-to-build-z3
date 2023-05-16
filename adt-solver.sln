@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SMTLIB2", "SMTLIB2\SMTLIB2\SMTLIB2.fsproj", "{D4ED666F-A786-41CB-AD33-EB6ABB2C89A0}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "CataHornSolver", "CataHornSolver\CataHornSolver.fsproj", "{3F49BE3F-7734-4140-A8C8-5BE501CE7A1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedlogParser", "RedlogParser\RedlogParser.csproj", "{58CE5C3A-9C37-4566-8646-57BC6999C683}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMTLIB2Parser", "SMTLIB2\SMTLIB2Parser\SMTLIB2Parser.csproj", "{DD9B8F9C-9892-4302-A98A-1DE30DBC948A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F49BE3F-7734-4140-A8C8-5BE501CE7A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F49BE3F-7734-4140-A8C8-5BE501CE7A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F49BE3F-7734-4140-A8C8-5BE501CE7A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F49BE3F-7734-4140-A8C8-5BE501CE7A1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58CE5C3A-9C37-4566-8646-57BC6999C683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58CE5C3A-9C37-4566-8646-57BC6999C683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58CE5C3A-9C37-4566-8646-57BC6999C683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58CE5C3A-9C37-4566-8646-57BC6999C683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4ED666F-A786-41CB-AD33-EB6ABB2C89A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4ED666F-A786-41CB-AD33-EB6ABB2C89A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4ED666F-A786-41CB-AD33-EB6ABB2C89A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4ED666F-A786-41CB-AD33-EB6ABB2C89A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD9B8F9C-9892-4302-A98A-1DE30DBC948A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD9B8F9C-9892-4302-A98A-1DE30DBC948A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD9B8F9C-9892-4302-A98A-1DE30DBC948A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD9B8F9C-9892-4302-A98A-1DE30DBC948A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
